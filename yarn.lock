@@ -5222,12 +5222,7 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001669:
-  version "1.0.30001677"
-  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001677.tgz"
-  integrity sha512-fmfjsOlJUpMWu+mAAtZZZHz7UEwsUxIIvu1TJfO1HqFQvB/B+ii0xr9B5HpbZY/mC4XZ8SvjHJqtAY6pDPQEog==
-
-caniuse-lite@^1.0.30001283:
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001283, caniuse-lite@^1.0.30001669:
   version "1.0.30001680"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001680.tgz#5380ede637a33b9f9f1fc6045ea99bd142f3da5e"
   integrity sha512-rPQy70G6AGUMnbwS1z6Xg+RkHYPAi18ihs47GH0jcxIG7wArmPgY3XbS2sRdBbxJljp3thdT8BIqv9ccCypiPA==
@@ -6631,10 +6626,10 @@ eslint-plugin-jest@^28.8.3:
   dependencies:
     "@typescript-eslint/utils" "^6.0.0 || ^7.0.0 || ^8.0.0"
 
-eslint-plugin-no-lookahead-lookbehind-regexp@0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-no-lookahead-lookbehind-regexp/-/eslint-plugin-no-lookahead-lookbehind-regexp-0.1.0.tgz#d1d920e152c57e9df5fd5623d5d64be9bfbc3622"
-  integrity sha512-1wWLRhw72doON551LRu3hfPuSzQ5FWr+s3zqsJRO3opvQbiQfJwst07SvGSukI1HhZ6+4o235Ry6V5AXJv8eNg==
+eslint-plugin-no-lookahead-lookbehind-regexp@0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-no-lookahead-lookbehind-regexp/-/eslint-plugin-no-lookahead-lookbehind-regexp-0.3.0.tgz#b3aa330b3c25d24baa2ee5a5e97a4522e1cee9fb"
+  integrity sha512-Zncdmh6sgBDCGnnYK1f3eCRz/X8NjgvWqFGkBPBlQtlqMZJ8bibrrFzffyT1enm3m6soTHDy3yc4dM5WkI44xQ==
   dependencies:
     browserslist "^4.18.1"
     caniuse-lite "^1.0.30001283"
